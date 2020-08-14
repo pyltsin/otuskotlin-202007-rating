@@ -5,9 +5,9 @@
       <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false" isTestModule="true" externalProjectId=":ok-rating-mp-transport-models">
         <dependsOnModuleNames>:ok-rating-mp-transport-models:commonTest</dependsOnModuleNames>
         <sourceSets>
-          <sourceSet>otuskotlin-202007.ok-rating-mp-transport-models.jvmMain~1</sourceSet>
-          <sourceSet>otuskotlin-202007.ok-rating-mp-transport-models.commonTest~1</sourceSet>
-          <sourceSet>otuskotlin-202007.ok-rating-mp-transport-models.commonMain~1</sourceSet>
+          <sourceSet>otuskotlin-202007.ok-rating-mp-transport-models.jvmMain</sourceSet>
+          <sourceSet>otuskotlin-202007.ok-rating-mp-transport-models.commonMain</sourceSet>
+          <sourceSet>otuskotlin-202007.ok-rating-mp-transport-models.commonTest</sourceSet>
         </sourceSets>
         <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
         <externalSystemTestTasks>jvmTest|:ok-rating-mp-transport-models:jvmTest|jvm</externalSystemTestTasks>

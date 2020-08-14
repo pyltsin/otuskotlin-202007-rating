@@ -2,15 +2,12 @@
 <module version="4">
   <component name="FacetManager">
     <facet type="kotlin-language" name="Kotlin">
-      <configuration version="3" platform="Native " allPlatforms="Native []" useProjectSettings="false" isTestModule="true" externalProjectId=":ok-rating-mp-transport-models">
-        <dependsOnModuleNames>:ok-rating-mp-transport-models:commonTest</dependsOnModuleNames>
+      <configuration version="3" platform="Native " allPlatforms="Native []" useProjectSettings="false" isTestModule="false" externalProjectId=":ok-rating-mp-common">
+        <dependsOnModuleNames>:ok-rating-mp-common:commonMain</dependsOnModuleNames>
         <sourceSets>
-          <sourceSet>otuskotlin-202007.ok-rating-mp-transport-models.commonTest~1</sourceSet>
-          <sourceSet>otuskotlin-202007.ok-rating-mp-transport-models.linuxX64Main~1</sourceSet>
-          <sourceSet>otuskotlin-202007.ok-rating-mp-transport-models.commonMain~1</sourceSet>
+          <sourceSet>otuskotlin-202007.ok-rating-mp-common.commonMain</sourceSet>
         </sourceSets>
         <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
-        <externalSystemTestTasks>linuxX64Test|:ok-rating-mp-transport-models:linuxX64Test|linuxX64</externalSystemTestTasks>
         <compilerSettings />
         <compilerArguments>
           <option name="languageVersion" value="1.3" />

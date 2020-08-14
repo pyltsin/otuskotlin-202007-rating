@@ -2,21 +2,21 @@
 <module version="4">
   <component name="FacetManager">
     <facet type="kotlin-language" name="Kotlin">
-      <configuration version="3" platform="JavaScript " allPlatforms="JS []" useProjectSettings="false" isTestModule="true" externalProjectId=":ok-rating-mp-transport-models">
-        <dependsOnModuleNames>:ok-rating-mp-transport-models:commonTest</dependsOnModuleNames>
+      <configuration version="3" platform="JavaScript " allPlatforms="JS []" useProjectSettings="false" isTestModule="true" externalProjectId=":ok-rating-mp-common">
+        <dependsOnModuleNames>:ok-rating-mp-common:commonTest</dependsOnModuleNames>
         <sourceSets>
-          <sourceSet>otuskotlin-202007.ok-rating-mp-transport-models.jsMain</sourceSet>
-          <sourceSet>otuskotlin-202007.ok-rating-mp-transport-models.commonTest~1</sourceSet>
-          <sourceSet>otuskotlin-202007.ok-rating-mp-transport-models.commonMain~1</sourceSet>
+          <sourceSet>otuskotlin-202007.ok-rating-mp-common.jsMain</sourceSet>
+          <sourceSet>otuskotlin-202007.ok-rating-mp-common.commonMain</sourceSet>
+          <sourceSet>otuskotlin-202007.ok-rating-mp-common.commonTest</sourceSet>
         </sourceSets>
         <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
         <externalSystemTestTasks>
-          <externalSystemTestTask>jsBrowserTest|:ok-rating-mp-transport-models:jsTest|js</externalSystemTestTask>
-          <externalSystemTestTask>jsNodeTest|:ok-rating-mp-transport-models:jsTest|js</externalSystemTestTask>
+          <externalSystemTestTask>jsBrowserTest|:ok-rating-mp-common:jsTest|js</externalSystemTestTask>
+          <externalSystemTestTask>jsNodeTest|:ok-rating-mp-common:jsTest|js</externalSystemTestTask>
         </externalSystemTestTasks>
         <compilerSettings />
         <compilerArguments>
-          <option name="outputFile" value="$MODULE_DIR$/../../../build/js/packages/otuskotlin-202007-ok-rating-mp-transport-models-test/kotlin/otuskotlin-202007-ok-rating-mp-transport-models-test.js" />
+          <option name="outputFile" value="$MODULE_DIR$/../../../build/js/packages/otuskotlin-202007-ok-rating-mp-common-test/kotlin/otuskotlin-202007-ok-rating-mp-common-test.js" />
           <option name="noStdlib" value="true" />
           <option name="sourceMap" value="true" />
           <option name="metaInfo" value="true" />

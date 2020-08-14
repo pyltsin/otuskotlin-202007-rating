@@ -2,9 +2,10 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="11">
-      <module name="otuskotlin-202007.ok-rating-mp-common.jvmMain" target="1.6" />
-      <module name="otuskotlin-202007.ok-rating-mp-transport-models.jvmMain" target="1.6" />
-      <module name="otuskotlin-202007.ok-rating-mp-transport-models.jvmTest" target="1.6" />
+      <module name="otuskotlin-202007.ok-rating-mp-common.jvmMain~1" target="1.6" />
+      <module name="otuskotlin-202007.ok-rating-mp-common.jvmTest" target="1.6" />
+      <module name="otuskotlin-202007.ok-rating-mp-transport-models.jvmMain~1" target="1.6" />
+      <module name="otuskotlin-202007.ok-rating-mp-transport-models.jvmTest~1" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>

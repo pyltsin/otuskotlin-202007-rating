@@ -4,10 +4,10 @@ import org.junit.Test
 import kotlin.test.assertEquals
 
 
-internal class RatingModuleTest {
+internal class RatingTest {
     @Test
     fun createUserTest() {
-        val ratingModule = RatingModule(
+        val ratingModule = Rating(
             id = "test"
         )
         assertEquals("test", ratingModule.id)

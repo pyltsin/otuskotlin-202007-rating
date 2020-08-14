@@ -2,15 +2,15 @@
 <module version="4">
   <component name="FacetManager">
     <facet type="kotlin-language" name="Kotlin">
-      <configuration version="3" platform="JavaScript " allPlatforms="JS []" useProjectSettings="false" isTestModule="false" externalProjectId=":ok-rating-mp-transport-models">
-        <dependsOnModuleNames>:ok-rating-mp-transport-models:commonMain</dependsOnModuleNames>
+      <configuration version="3" platform="JavaScript " allPlatforms="JS []" useProjectSettings="false" isTestModule="false" externalProjectId=":ok-rating-mp-common">
+        <dependsOnModuleNames>:ok-rating-mp-common:commonMain</dependsOnModuleNames>
         <sourceSets>
-          <sourceSet>otuskotlin-202007.ok-rating-mp-transport-models.commonMain~1</sourceSet>
+          <sourceSet>otuskotlin-202007.ok-rating-mp-common.commonMain</sourceSet>
         </sourceSets>
         <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
         <compilerSettings />
         <compilerArguments>
-          <option name="outputFile" value="$MODULE_DIR$/../../../build/js/packages/otuskotlin-202007-ok-rating-mp-transport-models/kotlin/otuskotlin-202007-ok-rating-mp-transport-models.js" />
+          <option name="outputFile" value="$MODULE_DIR$/../../../build/js/packages/otuskotlin-202007-ok-rating-mp-common/kotlin/otuskotlin-202007-ok-rating-mp-common.js" />
           <option name="noStdlib" value="true" />
           <option name="sourceMap" value="true" />
           <option name="metaInfo" value="true" />
