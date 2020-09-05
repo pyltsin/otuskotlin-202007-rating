@@ -5,9 +5,9 @@
       <configuration version="3" platform="JavaScript " allPlatforms="JS []" useProjectSettings="false" isTestModule="true" externalProjectId=":ok-rating-mp-common">
         <dependsOnModuleNames>:ok-rating-mp-common:commonTest</dependsOnModuleNames>
         <sourceSets>
-          <sourceSet>otuskotlin-202007.ok-rating-mp-common.jsMain</sourceSet>
-          <sourceSet>otuskotlin-202007.ok-rating-mp-common.commonMain</sourceSet>
           <sourceSet>otuskotlin-202007.ok-rating-mp-common.commonTest</sourceSet>
+          <sourceSet>otuskotlin-202007.ok-rating-mp-common.commonMain</sourceSet>
+          <sourceSet>otuskotlin-202007.ok-rating-mp-common.jsMain</sourceSet>
         </sourceSets>
         <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
         <externalSystemTestTasks>

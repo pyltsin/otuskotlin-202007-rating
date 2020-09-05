@@ -3,7 +3,7 @@ include("ok-rating-be-common")
 include("ok-rating-mp-transport-models")
 include("ok-rating-mp-common")
 include("ok-rating-be-transport-multiplatform")
-include("rating-app-spring")
+include("ok-rating-app-spring")
 
 pluginManagement {
     plugins {

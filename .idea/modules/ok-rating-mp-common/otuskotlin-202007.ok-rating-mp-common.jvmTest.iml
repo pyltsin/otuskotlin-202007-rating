@@ -5,8 +5,8 @@
       <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false" isTestModule="true" externalProjectId=":ok-rating-mp-common">
         <dependsOnModuleNames>:ok-rating-mp-common:commonTest</dependsOnModuleNames>
         <sourceSets>
-          <sourceSet>otuskotlin-202007.ok-rating-mp-common.commonMain</sourceSet>
           <sourceSet>otuskotlin-202007.ok-rating-mp-common.commonTest</sourceSet>
+          <sourceSet>otuskotlin-202007.ok-rating-mp-common.commonMain</sourceSet>
           <sourceSet>otuskotlin-202007.ok-rating-mp-common.jvmMain</sourceSet>
         </sourceSets>
         <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>

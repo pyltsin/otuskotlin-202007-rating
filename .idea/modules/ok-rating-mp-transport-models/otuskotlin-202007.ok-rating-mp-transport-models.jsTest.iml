@@ -5,9 +5,9 @@
       <configuration version="3" platform="JavaScript " allPlatforms="JS []" useProjectSettings="false" isTestModule="true" externalProjectId=":ok-rating-mp-transport-models">
         <dependsOnModuleNames>:ok-rating-mp-transport-models:commonTest</dependsOnModuleNames>
         <sourceSets>
+          <sourceSet>otuskotlin-202007.ok-rating-mp-transport-models.commonMain</sourceSet>
           <sourceSet>otuskotlin-202007.ok-rating-mp-transport-models.commonTest</sourceSet>
           <sourceSet>otuskotlin-202007.ok-rating-mp-transport-models.jsMain</sourceSet>
-          <sourceSet>otuskotlin-202007.ok-rating-mp-transport-models.commonMain</sourceSet>
         </sourceSets>
         <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
         <externalSystemTestTasks>
