@@ -2,13 +2,12 @@
 <module version="4">
   <component name="FacetManager">
     <facet type="kotlin-language" name="Kotlin">
-      <configuration version="3" platform="Common (experimental) " allPlatforms="JS []/JVM [1.6]/Native []" useProjectSettings="false" isTestModule="true" externalProjectId=":ok-rating-mp-common">
+      <configuration version="3" platform="Common (experimental) " allPlatforms="JS []/JVM [1.6]/Native []/Native [general]" useProjectSettings="false" isTestModule="true" externalProjectId=":ok-rating-mp-common">
         <newMppModelJpsModuleKind>SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
         <externalSystemTestTasks>
           <externalSystemTestTask>jsBrowserTest|:ok-rating-mp-common:jsTest|js</externalSystemTestTask>
           <externalSystemTestTask>jsNodeTest|:ok-rating-mp-common:jsTest|js</externalSystemTestTask>
           <externalSystemTestTask>jvmTest|:ok-rating-mp-common:jvmTest|jvm</externalSystemTestTask>
-          <externalSystemTestTask>linuxX64Test|:ok-rating-mp-common:linuxX64Test|linuxX64</externalSystemTestTask>
         </externalSystemTestTasks>
         <compilerSettings />
         <compilerArguments>

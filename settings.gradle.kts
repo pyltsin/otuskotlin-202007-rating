@@ -3,9 +3,10 @@ include("ok-rating-be-common")
 include("ok-rating-mp-transport-models")
 include("ok-rating-mp-common")
 include("ok-rating-be-transport-multiplatform")
+include("rating-app-spring")
 
-pluginManagement{
-    plugins{
+pluginManagement {
+    plugins {
         val kotlinVersion: String by settings
         kotlin("jvm") version kotlinVersion
         kotlin("multiplatform") version kotlinVersion

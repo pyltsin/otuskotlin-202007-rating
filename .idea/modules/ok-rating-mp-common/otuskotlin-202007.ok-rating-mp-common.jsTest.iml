@@ -14,6 +14,7 @@
           <externalSystemTestTask>jsBrowserTest|:ok-rating-mp-common:jsTest|js</externalSystemTestTask>
           <externalSystemTestTask>jsNodeTest|:ok-rating-mp-common:jsTest|js</externalSystemTestTask>
         </externalSystemTestTasks>
+        <testOutputPath>$MODULE_DIR$/../../../build/js/packages/otuskotlin-202007-ok-rating-mp-common-test/kotlin/otuskotlin-202007-ok-rating-mp-common-test.js</testOutputPath>
         <compilerSettings />
         <compilerArguments>
           <option name="outputFile" value="$MODULE_DIR$/../../../build/js/packages/otuskotlin-202007-ok-rating-mp-common-test/kotlin/otuskotlin-202007-ok-rating-mp-common-test.js" />
