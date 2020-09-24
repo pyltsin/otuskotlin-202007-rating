@@ -2,7 +2,7 @@ package ru.otus.kotlin.rating.transport.multiplatform.backend
 
 import ru.otus.kotlin.rating.multiplatform.transport.models.KmpRating
 import ru.otus.kotlin.rating.multiplatform.transport.models.KmpRatingCreate
-import ru.otus.otus.kotlin.rating.backend.common.Rating
+import ru.otus.otus.kotlin.rating.backend.common.models.Rating
 import java.time.LocalDate
 import java.time.LocalDateTime
 

@@ -3,7 +3,7 @@ package ru.otus.otuskotlin.rating.backend.app.spring
 import org.springframework.stereotype.Service
 import ru.otus.kotlin.rating.multiplatform.transport.models.*
 import ru.otus.kotlin.rating.transport.multiplatform.backend.toKmpRating
-import ru.otus.otus.kotlin.rating.backend.common.Rating
+import ru.otus.otus.kotlin.rating.backend.common.models.Rating
 import java.time.LocalDateTime
 
 @Service

@@ -1,4 +1,4 @@
-package ru.otus.otus.kotlin.rating.backend.common
+package ru.otus.otus.kotlin.rating.backend.common.models
 
 import java.time.LocalDateTime
 

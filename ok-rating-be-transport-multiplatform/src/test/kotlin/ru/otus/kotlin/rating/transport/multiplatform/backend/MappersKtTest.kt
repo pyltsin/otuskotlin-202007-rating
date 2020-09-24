@@ -1,7 +1,7 @@
 package ru.otus.kotlin.rating.transport.multiplatform.backend
 
 import ru.otus.kotlin.rating.multiplatform.transport.models.KmpRating
-import ru.otus.otus.kotlin.rating.backend.common.Rating
+import ru.otus.otus.kotlin.rating.backend.common.models.Rating
 import java.time.LocalDateTime
 import kotlin.test.Test
 import kotlin.test.assertEquals
